@@ -1,0 +1,4 @@
+{
+  "id": 27592,
+  "text": "<color=#FFE787>回復時間：</color>$Skill_CD(2031)@\n<color=#FFE787>技能射程：</color>$Skill_range(2031)@\n 在隨機1個敵武將處突起一叢尖石柱，造成目標$Skill_Int(2031)@智力傷害，同時造成目標暈眩$Status_duration(121)@秒。"
+}

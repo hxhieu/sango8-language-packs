@@ -1,0 +1,4 @@
+{
+  "id": 26518,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1086)@</color>\n\n在 <color=#ccffcc>$Status_duration(4861)@</color> 秒內縮短我方全體武將 <color=#ccffcc>40%</color> 技能回復時間，並延長全體敵方武將 <color=#ccffcc>40%</color> 技能回復時間。"
+}

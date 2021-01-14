@@ -1,0 +1,4 @@
+{
+  "id": 27776,
+  "text": " <color=#FFE787>回復時間：</color>$Skill_CD(2741)@\n 在武將四周，召喚出12隻  <color=#4cc769>黃巾兵</color>，攻擊附近的敵人。\n \n <color=#4cc769>黃巾刀兵</color>屬性：\n <color=#FFE787>體力值：</color>$Soldier_HP(1381)@\n <color=#FFE787>武力值：</color>$Soldier_Str(1381)@\n \n<color=#4cc769> 黃巾槍兵</color>屬性：\n<color=#FFE787>體力值：</color>$Soldier_HP(1386)@\n <color=#FFE787>武力值：</color>$Soldier_Str(1386)@\n \n<color=#4cc769>黃巾弓兵</color>屬性：\n<color=#FFE787>體力值：</color>$Soldier_HP(1391)@\n<color=#FFE787>武力值：</color>$Soldier_Str(1391)@"
+}

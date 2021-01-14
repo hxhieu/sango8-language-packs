@@ -1,0 +1,4 @@
+{
+  "id": 26625,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2291)@</color>\n 在武將四周，召喚出25隻<color=#4cc769>屍鬼</color>，攻擊附近的敵人。\n <color=#4cc769>屍鬼</color>屬性\n <color=#FFE787>體力值：</color><color=#ccffcc>$Soldier_HP(1286)@</color>\n 武力值：<color=#ccffcc>$Soldier_Str(1286)@</color>"
+}

@@ -1,0 +1,4 @@
+{
+  "id": 26532,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1156)@</color>\r\n\r\n瞬間移動到敵方體力最少的武將背後以 <color=#ccffcc>$Skill_Str(1156)@</color> <color=#80cc00>武力</color>造成物理傷害，並且再以 <color=#ccffcc>$Skill_Str(1366)@</color> <color=#80cc00>武力</color>對自身範圍內敵方造成物理傷害，若目標體力低於 <color=#ccffcc>20%</color> 則額外增加 <color=#ccffcc>20%</color> 傷害。"
+}

@@ -1,0 +1,4 @@
+{
+  "id": 26675,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2541)@</color>\n<color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2541)@</color>\n召喚聖獸青龍分身降靈，以<color=#ccffcc>$Skill_Str(2541)@</color><color=#80cc00>武力</color>與<color=#ccffcc>$Skill_Int(2541)@</color><color=#13ccd7>智力</color>對目標區內的敵人造成傷害。"
+}

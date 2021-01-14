@@ -1,0 +1,4 @@
+{
+  "id": 27742,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(3486)@</color>\n積蓄手中力量，快速拔出武器。在瞬間對前方的敵人連續攻擊四次，每次以<color=#ccffcc>$Skill_Str(3486)@</color><color=#80cc00>武力</color>與<color=#ccffcc>$Skill_Int(3486)@</color><color=#13ccd7>智力</color>造成傷害。"
+}

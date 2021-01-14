@@ -1,0 +1,4 @@
+{
+  "id": 26787,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1006)@</color>\n \n 召喚一個<color=#4cc769>櫻花結界</color>，並在 <color=#ccffcc>30</color> 秒內持續提升我軍士氣至全滿狀態。場上只能同時存在一個結界且新的結界會取代舊的，當結界被取代消失時效果也會跟著消失。"
+}

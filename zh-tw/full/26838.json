@@ -1,0 +1,4 @@
+{
+  "id": 26838,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1091)@</color>\n\n解除我方全體異常狀態，同時在 <color=#ccffcc>$Status_duration(4749)@</color> 秒內提升我方全體 <color=#ccffcc>90%</color> 異常狀態抗性。"
+}

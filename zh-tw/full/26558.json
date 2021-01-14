@@ -1,0 +1,4 @@
+{
+  "id": 26558,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1286)@</color>\r\n\r\n以  <color=#ccffcc>$Skill_Int(1286)@</color> <color=#13ccd7>智力</color>將自身範圍內敵方吸入黑洞造成法術傷害，並召喚 <color=#ccffcc>2</color> 隻<color=#4cc769>水墨熊</color>加入我軍。\r\n\r\n<color=#4cc769>水墨熊</color>屬性\r\n<color=#FFE787>體力值：</color><color=#ccffcc>$Soldier_HP(1236)@</color>   <color=#FFE787>武力值：</color><color=#ccffcc>$Soldier_Str(1236)@</color>\r\n機率性發動特殊攻擊\r\n以 <color=#ccffcc>$Skill_Str(496)@</color> <color=#80cc00>武力</color> 對前方範圍內敵方造成物理傷害"
+}

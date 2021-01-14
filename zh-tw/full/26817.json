@@ -1,0 +1,4 @@
+{
+  "id": 26817,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1056)@</color>\n\n以 <color=#ccffcc>$Skill_Str(766)@</color> <color=#80cc00>武力</color>對自身範圍內敵方造成物理傷害，並在 <color=#ccffcc>$Status_duration(158)@</color> 秒內對全體敵方武將造成沉默狀態，此狀態讓武將只能發動第一招。"
+}

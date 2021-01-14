@@ -1,0 +1,4 @@
+{
+  "id": 26904,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1186)@</color>\n\n以 <color=#ccffcc>$Skill_Str(641)@</color> <color=#80cc00>武力</color>對自身範圍內敵方造成物理傷害，且在 <color=#ccffcc>$Status_duration(142)@</color> 秒內對敵方全體造成恐懼狀態。"
+}

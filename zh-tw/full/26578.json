@@ -1,0 +1,4 @@
+{
+  "id": 26578,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2056)@</color>\n<color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2056)@</color>\n目標範圍內，從地底噴發巨大的火柱，灼燒敵人並以<color=#ccffcc>$Skill_Int(2056)@</color><color=#13ccd7>智力</color>對敵人造成法術傷害。"
+}

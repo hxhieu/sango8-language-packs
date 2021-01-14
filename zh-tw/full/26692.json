@@ -1,0 +1,4 @@
+{
+  "id": 26692,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(3216)@</color>\n召喚3顆靈光飛彈，追蹤攻擊敵方武將與士兵，每顆以<color=#ccffcc>$Skill_Int(3216)@</color><color=#13ccd7>智力</color>對敵人造成法術傷害。"
+}

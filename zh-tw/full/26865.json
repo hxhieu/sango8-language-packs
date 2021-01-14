@@ -1,0 +1,4 @@
+{
+  "id": 26865,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1131)@</color>\n\n以 <color=#ccffcc>$Skill_Int(1131)@</color> <color=#13ccd7>智力</color>對自身範圍內敵方造成法術傷害，且在 <color=#ccffcc>$Status_duration(138)@</color> 秒內對敵方全體產生盲目狀態。"
+}

@@ -1,0 +1,4 @@
+{
+  "id": 26727,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(3576)@</color>\n武將身旁突出地刺，以<color=#ccffcc>$Skill_Str(3576)@</color><color=#80cc00>武力</color>與<color=#ccffcc>$Skill_Int(3576)@</color><color=#13ccd7>智力</color>傷害周圍的敵人。"
+}

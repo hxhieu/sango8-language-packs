@@ -1,0 +1,4 @@
+{
+  "id": 26664,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2481)@</color>\n<color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2481)@</color>\n 對指定的地點施放迷魂煙霧，讓範圍內的士兵自相殘殺。"
+}

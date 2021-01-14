@@ -1,0 +1,4 @@
+{
+  "id": 26840,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1096)@</color>\r\n\r\n在 <color=#ccffcc>$Status_duration(4332)@</color> 秒內提升自身 <color=#ccffcc>$Status_Str(4332)@</color> 點武力，同時 <color=#ccffcc>4</color> 秒為間隔以  <color=#ccffcc>$Skill_Str(861)@</color> <color=#80cc00>武力</color>對前方直線範圍內全體敵方造成 <color=#ccffcc>5</color> 次物理傷害。"
+}

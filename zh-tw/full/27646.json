@@ -1,0 +1,4 @@
+{
+  "id": 27646,
+  "text": "<color=#FFE787>回復時間：</color>$Skill_CD(2301)@\n 在武將四周，召喚6隻<color=#4cc769>巨木樹妖</color>協助作戰。\n <color=#4cc769>巨木樹妖</color>屬性：\n <color=#FFE787>體力值：</color>$Soldier_HP(1296)@\n 武力值：$Soldier_Str(1296)@"
+}

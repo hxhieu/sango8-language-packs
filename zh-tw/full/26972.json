@@ -1,0 +1,4 @@
+{
+  "id": 26972,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1306)@</color>\n\n以 <color=#ccffcc>$Skill_Str(491)@</color> <color=#80cc00>武力</color>對前方範圍內敵方造成物理傷害，並強化全體我方武將 <color=#ccffcc>$Status_Str(4732)@</color> 點武力智力，以及 <color=#ccffcc>22%</color> 爆擊率爆擊傷害，同時解除大部分異常狀態。"
+}

@@ -1,0 +1,4 @@
+{
+  "id": 27703,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2601)@</color>\n武將前衝挑斬激起一股衝擊波，攻擊前方敵人，以<color=#ccffcc>$Skill_Str(2601)@</color><color=#80cc00>武力</color>對敵人造成物理傷害。"
+}

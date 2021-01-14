@@ -1,0 +1,4 @@
+{
+  "id": 26830,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1071)@</color>\n\n在 <color=#ccffcc>$Status_duration(4644)@</color> 秒內讓自身即使體力見底也不會死亡，並提升我方全體武將 <color=#ccffcc>$Status_Str(4644)@</color> 點武力以及智力，同時提升我方全體士兵 <color=#ccffcc>$Status_Str(4649)@</color> 點武力。"
+}

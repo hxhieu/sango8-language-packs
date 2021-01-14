@@ -1,0 +1,4 @@
+{
+  "id": 21600,
+  "text": "回復時間：$Skill_CD(2741)@\n 在武將四周，召喚出12隻黃巾兵，攻擊附近的敵人。\n 黃巾刀兵屬性\n 體力值：$Soldier_HP(1381)@\n 武力值：$Soldier_Str(1381)@\n 黃巾槍兵屬性\n 體力值：$Soldier_HP(1386)@\n 武力值：$Soldier_Str(1386)@\n 黃巾弓兵屬性\n 體力值：$Soldier_HP(1391)@\n 武力值：$Soldier_Str(1391)@"
+}

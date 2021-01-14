@@ -1,0 +1,4 @@
+{
+  "id": 26494,
+  "text": "<color=#FFE787>使用限制：</color><color=#ccffcc>所有場合皆可使用</color>\n  \n  降低敵方 <color=#ccffcc>200</color> 點士氣，並且提升我方所有建物 <color=#ccffcc>+40%</color> 抗性，持續 <color=#ccffcc>$Status_duration(4933)@</color> 秒。"
+}

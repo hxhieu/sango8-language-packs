@@ -1,0 +1,4 @@
+{
+  "id": 26766,
+  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2386)@</color>\n  引氣凝盾，在武將週圍形成球形菱紋氣盾，在接下來的<color=#ccffcc>$Status_duration(1519)@</color>秒內減少95%<color=#80cc00>物理傷害</color>。"
+}

@@ -1,0 +1,4 @@
+{
+  "id": 26481,
+  "text": "<color=#FFE787>使用限制：</color><color=#ccffcc>進攻方可使用</color>\r\r\n\r\r\n在 <color=#ccffcc>$Status_duration(4896)@</color> 秒內我方士氣提升至全滿，並提升全體武將 <color=#ccffcc>$Status_Str(4896)@</color> 點武力和智力，且提升 <color=#ccffcc>$Status_MS(4896)@</color> 點移動速度。\r\r\n\r\r\n但強化狀態結束時\r\r\n\r\r\n在 <color=#ccffcc>$Status_duration(4902)@</color> 秒內我方士氣歸零，並使全體武將  <color=#ccffcc>$Status_Str(4902)@</color> 點武力和智力，且 <color=#ccffcc>$Status_MS(4902)@</color> 點移動速度。"
+}

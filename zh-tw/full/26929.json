@@ -1,0 +1,4 @@
+{
+  "id": 26929,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1226)@</color>\n\n以 <color=#ccffcc>$Skill_Str(916)@</color> <color=#80cc00>武力</color>對前方範圍內敵方造成物理傷害，並造成每秒 <color=#ccffcc>-50</color> 點傷害的永久燃燒，同時自身也會一起燃燒且受到少量傷害。"
+}

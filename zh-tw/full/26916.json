@@ -1,0 +1,4 @@
+{
+  "id": 26916,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1211)@</color>\r\n\r\n以 <color=#ccffcc>$Skill_Int(1356)@</color> <color=#13ccd7>智力</color>對自身範圍內敵方造成法術傷害，並在 <color=#ccffcc>$Status_duration(4852)@</color> 秒內使全體我方武將反射所有傷害，且有 <color=#ccffcc>6%</color> 的機率以 <color=#ccffcc>$Skill_Int(1356)@</color> <color=#13ccd7>智力</color>對範圍內敵方造成法術傷害。"
+}

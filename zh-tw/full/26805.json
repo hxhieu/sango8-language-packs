@@ -1,0 +1,4 @@
+{
+  "id": 26805,
+  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1036)@</color>\n\n將敵方全體傳送回據點內，並在 <color=#ccffcc>$Status_duration(163)@</color> 秒內對全體敵方造成敵我不分的混亂狀態，同時降低所有抗性。"
+}
