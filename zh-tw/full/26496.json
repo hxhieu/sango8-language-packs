@@ -1,4 +1,0 @@
-{
-  "id": 26496,
-  "text": " <color=#FFE787>使用限制：</color><color=#ccffcc>進攻方可使用</color>\r\r\n\r\r\n對敵方<color=#ccffcc>5</color>名武將造成 <color=#ccffcc>-15%</color> 體力的傷害，並附加燃燒狀態，同時以 <color=#ccffcc>70%</color> 的機率對敵方所有建築物附加燃燒狀態\r\r\n\r\r\n<color=#FFE787>燃燒：</color>每秒 <color=#ccffcc>$Status_HP(4938)@</color> 點體力，持續 <color=#ccffcc>$Status_duration(4938)@</color> 秒"
-}

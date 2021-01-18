@@ -1,4 +1,0 @@
-{
-  "id": 26498,
-  "text": "  <color=#FFE787>使用限制：</color><color=#ccffcc>所有場合皆可使用</color>\r\r\n\r\r\n對敵方<color=#ccffcc>5</color>名武將附加盲目狀態，同時以 <color=#ccffcc>30%</color> 的機率對敵方所有士兵附加盲目狀態\r\r\n\r\r\n<color=#FFE787>武將盲目：</color><color=#ccffcc>-40%</color> 命中率，持續 <color=#ccffcc>$Status_duration(4949)@</color> 秒\r\r\n<color=#FFE787>士兵盲目：</color><color=#ccffcc>-60%</color> 命中率，持續 <color=#ccffcc>$Status_duration(132)@</color> 秒"
-}

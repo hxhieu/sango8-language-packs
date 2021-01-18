@@ -1,4 +1,0 @@
-{
-  "id": 27746,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(3506)@</color>\n武將由下而上揮舞手中的兵器從地面發出一到巨大的衝擊波對以<color=#ccffcc>$Skill_Str(3506)@</color><color=#80cc00>武力</color>與<color=#ccffcc>$Skill_Int(3506)@</color><color=#13ccd7>智力</color>造成傷害。"
-}

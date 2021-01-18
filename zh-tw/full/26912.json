@@ -1,4 +1,0 @@
-{
-  "id": 26912,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1201)@</color>\r\n\r\n在 <color=#ccffcc>$Status_duration(4292)@</color> 秒內使我方全體進入無敵狀態，並提升武將 <color=#ccffcc>$Status_Str(4292)@</color> 點武力和智力以及 <color=#ccffcc>45%</color> 爆擊率爆擊傷害，且同時提升士兵 <color=#ccffcc>$Status_Str(4297)@</color> 點武力和智力以及 <color=#ccffcc>13%</color> 爆擊率爆擊傷害。"
-}

@@ -1,4 +1,0 @@
-{
-  "id": 27771,
-  "text": " <color=#FFE787>回復時間：</color>$Skill_CD(2701)@\n  在武將四周，召喚出8隻<color=#4cc769>無當飛軍</color>，攻擊附近的敵人。\n  <color=#4cc769>無當飛軍</color>屬性\n  <color=#FFE787>體力值：</color>$Soldier_HP(1266)@\n  武力值：$Soldier_Str(1266)@"
-}

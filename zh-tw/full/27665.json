@@ -1,4 +1,0 @@
-{
-  "id": 27665,
-  "text": "<color=#FFE787>回復時間：</color>$Skill_CD(2391)@\n<color=#FFE787>技能射程：</color>$Skill_range(2391)@\n 將武將與他帶領的部分部隊，傳送到指定位置。"
-}

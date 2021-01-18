@@ -1,4 +1,0 @@
-{
-  "id": 26798,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1026)@</color>\n\n號令一群鷹隼對敵方一名體力最少的武將重複打擊 ，並以 <color=#ccffcc>$Skill_Int(621)@ x 11</color> <color=#13ccd7>智力</color>造成法術傷害，同時暈眩 <color=#ccffcc>$Status_duration(129)@</color> 秒。"
-}

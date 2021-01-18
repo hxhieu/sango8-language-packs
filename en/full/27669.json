@@ -1,0 +1,1 @@
+{"id":27669,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2416)@ 召喚邪靈化為兵刃，在武將四周飛舞，定期對周圍的敵方士兵造成$Skill_Str(2666)@武力傷害與$Skill_Str(2666)@智力傷害，被傷害到的士兵死亡以後會化為<color=#4cc769>屍鬼</color>為我方戰鬥。 <color=#4cc769>屍鬼</color>屬性 <color=#FFE787>體力值：</color>$Soldier_HP(1286)@ 武力值：$Soldier_Str(1286)@","text":"<color=#FFE787>Response time"}

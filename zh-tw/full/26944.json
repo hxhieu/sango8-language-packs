@@ -1,4 +1,0 @@
-{
-  "id": 26944,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1266)@</color>\n \n 以 <color=#ccffcc>$Skill_Int(501)@</color> <color=#13ccd7>智力</color>對前方範圍內敵方造成法術傷害，並在 <color=#ccffcc>$Status_duration(117)@</color> 秒內造成降低 <color=#ccffcc>4</color> 點移動速度以及攻擊間隔，且每秒造成 <color=#ccffcc>7</color> 點傷害的冰凍狀態。"
-}

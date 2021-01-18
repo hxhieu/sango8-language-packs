@@ -1,4 +1,0 @@
-{
-  "id": 26753,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2371)@</color>\n  全體我方武將恢復32%最大體力，並在接下來的<color=#ccffcc>$Status_duration(1616)@</color>秒內，每兩秒回復130點體力。"
-}

@@ -1,4 +1,0 @@
-{
-  "id": 26534,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1166)@</color>\r\n\r\n以 <color=#ccffcc>$Skill_Str(926)@</color> <color=#80cc00>武力</color>對前方範圍內敵方造成物理傷害，並依據擊殺的士兵數量補充自身預備兵，同時召喚 <color=#ccffcc>9</color> 隻<color=#4cc769>兵奴</color>加入我軍。\r\n\r\n<color=#4cc769>兵奴</color>屬性\r\n<color=#FFE787>體力值：</color><color=#ccffcc>$Soldier_HP(1256)@</color>   <color=#FFE787>武力值：</color><color=#ccffcc>$Soldier_Str(1256)@</color>"
-}

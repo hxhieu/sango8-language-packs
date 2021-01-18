@@ -1,4 +1,0 @@
-{
-  "id": 26679,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2561)@</color>\n<color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2561)@</color>\n召喚聖獸麒麟分身，在指定區域內奔行，\n以<color=#ccffcc>$Skill_Str(2561)@</color><color=#80cc00>武力</color>與<color=#ccffcc>$Skill_Int(2561)@</color><color=#13ccd7>智力</color>對範圍內的敵人造成傷害。"
-}

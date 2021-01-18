@@ -1,4 +1,0 @@
-{
-  "id": 26935,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1231)@</color>\n\n恢復我方全體 <color=#ccffcc>100%</color> 體力，並在 <color=#ccffcc>$Status_duration(4720)@</color> 秒內每秒恢復 <color=#ccffcc>$Status_HP(4720)@</color> 點體力。"
-}

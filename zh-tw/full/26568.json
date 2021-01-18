@@ -1,4 +1,0 @@
-{
-  "id": 26568,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2006)@</color>\n<color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2006)@</color>\n從地面召喚5叢橫列的炎石叢，以<color=#ccffcc>$Skill_Int(2006)@</color><color=#13ccd7>智力</color>對敵人造成法術傷害。召喚出的炎石叢會留在戰場上5秒，阻礙敵方移動。"
-}

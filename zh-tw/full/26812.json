@@ -1,4 +1,0 @@
-{
-  "id": 26812,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1051)@</color>\r\n  \r\n  乘著蒙衝與自己的部隊到達指定地點，且以<color=#ccffcc>$Skill_Str(746)@</color> <color=#80cc00>武力</color>對範圍內敵方造成物理傷害。同時在 <color=#ccffcc>$Status_duration(4502)@</color> 秒內強化自身 <color=#ccffcc>$Status_Int(4507)@</color> 點智力和武力，以及強化己部隊全體士兵 <color=#ccffcc>$Status_Int(4502)@</color> 點武力。"
-}

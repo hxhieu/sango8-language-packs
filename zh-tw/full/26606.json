@@ -1,4 +1,0 @@
-{
-  "id": 26606,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2196)@</color>\n<color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2196)@</color>\n以指定點為中心，召喚一個大型從天而降的龍捲風，將敵人捲起並以<color=#ccffcc>$Skill_Int(2196)@</color><color=#13ccd7>智力</color>對敵人造成法術傷害。"
-}

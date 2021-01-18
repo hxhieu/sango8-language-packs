@@ -1,4 +1,0 @@
-{
-  "id": 26552,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1256)@</color>\r\n\r\n以 <color=#ccffcc>$Skill_Str(931)@</color> <color=#80cc00>武力</color>將自身範圍內敵方吸入黑洞造成物理傷害，並恢復 <color=#ccffcc>60%</color> 體力，且在 <color=#ccffcc>$Status_duration(4346)@</color> 秒內以變大的身軀來提升 <color=#ccffcc>$Status_HPmax(4351)@</color> 點體力上限，同時每秒恢復 <color=#ccffcc>$Status_HP(4346)@</color> 點體力。"
-}

@@ -1,4 +1,0 @@
-{
-  "id": 26965,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1296)@</color>\n \n 以 <color=#ccffcc>3</color> 秒為間隔持續對周圍敵方武將發出中範圍的<color=#4cc769>撤退光環</color>，當敵方武將身上累積滿 <color=#ccffcc>4</color> 次光環狀態則撤退成功，被撤退成功的敵方武將會在戰場直接撤退，當成功撤退兩隻以上的敵方武將後光環就消失。\n \n <color=#4cc769>特殊限制</color>\n <color=#4cc769>撤退光環</color>一場戰鬥只能使用一次"
-}

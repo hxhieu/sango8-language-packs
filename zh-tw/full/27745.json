@@ -1,4 +1,0 @@
-{
-  "id": 27745,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(3501)@</color>\n對前方斬出兩波翻滾的巨大的血色衝擊波，衝擊波最多可對敵人以<color=#ccffcc>$Skill_Str(3501)@</color><color=#80cc00>武力</color>與<color=#ccffcc>$Skill_Int(3501)@</color><color=#13ccd7>智力</color>造成兩次傷害。"
-}

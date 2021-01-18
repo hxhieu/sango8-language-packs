@@ -1,0 +1,1 @@
+{"id":26573,"original":"<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2031)@</color><color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2031)@</color> 在隨機1個敵武將處突起一叢尖石柱，造成目標<color=#ccffcc>$Skill_Int(2031)@</color><color=#13ccd7>智力傷害</color>，同時造成目標暈眩<color=#ccffcc>$Status_duration(121)@</color>秒。","text":"<color=#FFE787>Response time"}

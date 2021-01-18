@@ -1,4 +1,0 @@
-{
-  "id": 26529,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1141)@</color>\r\n\r\n召喚 <color=#ccffcc>8</color> 隻<color=#4cc769>課金死士</color>加入我軍，並在 <color=#ccffcc>$Status_duration(4756)@</color> 秒內提升己部隊士兵 <color=#ccffcc>$Status_Str(4756)@</color> 點武力和 <color=#ccffcc>50%</color> 所有抗性，但狀態結束後部隊士兵會直接死亡。\r\n\r\n<color=#4cc769>課金死士</color>屬性\r\n<color=#FFE787>體力值：</color><color=#ccffcc>$Soldier_HP(1261)@</color>   <color=#FFE787>武力值：</color><color=#ccffcc>$Soldier_Str(1261)@</color>"
-}

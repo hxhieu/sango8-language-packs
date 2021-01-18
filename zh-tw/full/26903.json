@@ -1,4 +1,0 @@
-{
-  "id": 26903,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1181)@</color>\r\n\r\n以 <color=#ccffcc>$Skill_Str(1181)@</color> <color=#80cc00>武力</color>對前方範圍內敵方造成物理傷害，並在 <color=#ccffcc>$Status_duration(4315)@</color> 秒內對範圍內的敵方武將每秒造成 <color=#ccffcc>$Status_HP(4315)@</color> 點傷害，若敵方武將在狀態時間內死亡則蛇毒就會爆發，且傳染給周遭的敵方武將。"
-}

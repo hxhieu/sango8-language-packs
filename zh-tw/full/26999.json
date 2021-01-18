@@ -1,4 +1,0 @@
-{
-  "id": 26999,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1331)@</color>\r\n\r\n\r\n以 <color=#ccffcc>$Skill_Int(411)@</color> <color=#13ccd7>智力</color>對前方範圍內敵方造成法術傷害，同時 <color=#ccffcc>5</color> 秒為間隔以  <color=#ccffcc>$Skill_Int(416)@</color> <color=#13ccd7>智力</color>對前方範圍內敵方造成 <color=#ccffcc>3</color> 次法術傷害。"
-}

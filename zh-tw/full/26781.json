@@ -1,4 +1,0 @@
-{
-  "id": 26781,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1001)@</color>\n\n在 <color=#ccffcc>$Status_duration(4478)@</color> 秒內降低全體敵方武將 <color=#ccffcc>18%</color> 的所有抗性，並同時降低全體敵方士兵 <color=#ccffcc>40%</color> 所有抗性。"
-}

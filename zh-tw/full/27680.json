@@ -1,4 +1,0 @@
-{
-  "id": 27680,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2471)@</color>\n<color=#FFE787>技能射程：</color><color=#ccffcc>$Skill_range(2471)@</color>\n召喚飛刀，從天而降以<color=#ccffcc>$Skill_Str(2471)@</color><color=#80cc00>武力</color>對敵人造成物理傷害。"
-}

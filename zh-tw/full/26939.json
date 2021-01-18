@@ -1,4 +1,0 @@
-{
-  "id": 26939,
-  "text": "<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1236)@</color>\n \n 以 <color=#ccffcc>2</color> 秒為間隔持續對周圍敵方武將發出大範圍的<color=#4cc769>魅惑光環</color>，當敵方武將身上累積滿 <color=#ccffcc>4</color> 次光環狀態則魅惑成功，被魅惑成功的敵方武將會在戰場上倒戈加入我方，當成功魅惑兩隻以上的敵方武將後光環就消失。\n \n <color=#4cc769>特殊限制</color>\n <color=#4cc769>魅惑光環</color>一場戰鬥只能使用一次"
-}

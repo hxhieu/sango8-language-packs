@@ -1,4 +1,0 @@
-{
-  "id": 26795,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1021)@</color>\n\n在 <color=#ccffcc>$Status_duration(4490)@</color> 秒內，對我方全體武將加持復活鎧甲狀態，若在狀態持續時間內死亡，則會原地復活並恢復滿體力。"
-}

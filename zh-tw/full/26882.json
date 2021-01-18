@@ -1,4 +1,0 @@
-{
-  "id": 26882,
-  "text": "  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1151)@</color>\r\n\r\n在 <color=#ccffcc>$Status_duration(4699)@</color> 秒內使我方全體武將受到的治療量以及增益狀態時間提升 <color=#ccffcc>55%</color> 同時受到的傷害以及減益狀態時間降低 <color=#ccffcc>35%</color>，並在 <color=#ccffcc>$Status_duration(4704)@</color> 秒內每秒恢復 <color=#ccffcc>$Status_HP(4704)@</color> 點體力。"
-}
