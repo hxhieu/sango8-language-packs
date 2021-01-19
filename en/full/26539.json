@@ -1,1 +1,1 @@
-{"id":26539,"original":"  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1191)@</color>以 <color=#ccffcc>$Skill_Str(451)@</color> <color=#80cc00>武力</color>對自身範圍內敵方造成物理傷害，且在 <color=#ccffcc>$Status_duration(166)@</color> 秒內對敵方武將造成混亂狀態。","text":" <color=#FFE787>Response time"}
+{"id":26539,"original":"  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1191)@</color>以 <color=#ccffcc>$Skill_Str(451)@</color> <color=#80cc00>武力</color>對自身範圍內敵方造成物理傷害，且在 <color=#ccffcc>$Status_duration(166)@</color> 秒內對敵方武將造成混亂狀態。","text":"<color=#FFE787>Response time"}

@@ -1,1 +1,1 @@
-{"id":27772,"original":" <color=#FFE787>回復時間：</color>$Skill_CD(2706)@  在武將四周，召喚出10隻<color=#4cc769>解煩兵</color>，攻擊附近的敵人。  <color=#4cc769>解煩兵</color>屬性  <color=#FFE787>體力值：</color>$Soldier_HP(1271)@  武力值：$Soldier_Str(1271)@","text":" <color=#FFE787>Response time"}
+{"id":27772,"original":" <color=#FFE787>回復時間：</color>$Skill_CD(2706)@  在武將四周，召喚出10隻<color=#4cc769>解煩兵</color>，攻擊附近的敵人。  <color=#4cc769>解煩兵</color>屬性  <color=#FFE787>體力值：</color>$Soldier_HP(1271)@  武力值：$Soldier_Str(1271)@","text":"<color=#FFE787>Response time"}

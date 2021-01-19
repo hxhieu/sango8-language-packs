@@ -1,1 +1,1 @@
-{"id":26832,"original":"  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1086)@</color>在 <color=#ccffcc>$Status_duration(4862)@</color> 秒內縮短我方全體武將 <color=#ccffcc>45%</color> 技能回復時間，並延長全體敵方武將 <color=#ccffcc>45%</color> 技能回復時間。","text":" <color=#FFE787> Reply time"}
+{"id":26832,"original":"  <color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(1086)@</color>在 <color=#ccffcc>$Status_duration(4862)@</color> 秒內縮短我方全體武將 <color=#ccffcc>45%</color> 技能回復時間，並延長全體敵方武將 <color=#ccffcc>45%</color> 技能回復時間。","text":"<color=#FFE787> Reply time"}

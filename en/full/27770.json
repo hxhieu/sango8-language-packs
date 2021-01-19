@@ -1,1 +1,1 @@
-{"id":27770,"original":" <color=#FFE787>回復時間：</color>$Skill_CD(2696)@  在武將四周，召喚出8隻<color=#4cc769>白毦兵</color>，攻擊附近的敵人。  <color=#4cc769>白毦兵</color>屬性  <color=#FFE787>體力值：</color>$Soldier_HP(1226)@  武力值：$Soldier_Str(1226)@","text":" <color=#FFE787>Response time"}
+{"id":27770,"original":" <color=#FFE787>回復時間：</color>$Skill_CD(2696)@  在武將四周，召喚出8隻<color=#4cc769>白毦兵</color>，攻擊附近的敵人。  <color=#4cc769>白毦兵</color>屬性  <color=#FFE787>體力值：</color>$Soldier_HP(1226)@  武力值：$Soldier_Str(1226)@","text":"<color=#FFE787>Response time"}

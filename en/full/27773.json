@@ -1,1 +1,1 @@
-{"id":27773,"original":" <color=#FFE787>回復時間：</color>$Skill_CD(2711)@  在武將四周，召喚出4隻<color=#4cc769>西涼鐵騎</color>，攻擊附近的敵人。  <color=#4cc769>西涼鐵騎</color>屬性  <color=#FFE787>體力值：</color>$Soldier_HP(1276)@  武力值：$Soldier_Str(1276)@","text":" <color=#FFE787>Response time"}
+{"id":27773,"original":" <color=#FFE787>回復時間：</color>$Skill_CD(2711)@  在武將四周，召喚出4隻<color=#4cc769>西涼鐵騎</color>，攻擊附近的敵人。  <color=#4cc769>西涼鐵騎</color>屬性  <color=#FFE787>體力值：</color>$Soldier_HP(1276)@  武力值：$Soldier_Str(1276)@","text":"<color=#FFE787>Response time"}
