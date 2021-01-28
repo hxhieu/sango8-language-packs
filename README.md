@@ -1,7 +1,11 @@
 # Heroes of the Three Kingdoms language pack
 
-This is the default language packs when you use [sango8-language-patcher](https://github.com/hxhieu/sango8-language-patcher) for the first time.
+This is the default language packs for quickstart [sango8-language-patcher](https://github.com/hxhieu/sango8-language-patcher).
 
 # Contribution
 
-> TODO: All translations will be welcome in the later stage
+New language pack folder name must comfort Google Translate supports languages
+
+[https://cloud.google.com/translate/docs/languages](https://cloud.google.com/translate/docs/languages)
+
+Fork and create PRs etc.
