@@ -1,1 +1,1 @@
-{"id":27666,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2391)@<color=#FFE787>技能射程：</color>$Skill_range(2391)@ 將武將與他帶領的部隊，傳送到指定位置。","text":"<color=#FFE787>Response time"}
+{"id":27666,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2391)@<color=#FFE787>技能射程：</color>$Skill_range(2391)@ 將武將與他帶領的部隊，傳送到指定位置。","text":"<color=#FFE787>Response time: </color>$Skill_CD(2391)@<color=#FFE787>Skill range: </color>$Skill_range(2391)@ will send the generals and his troops to Specify the location."}

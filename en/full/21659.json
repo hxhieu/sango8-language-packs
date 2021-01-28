@@ -1,1 +1,1 @@
-{"id":21659,"original":"回復時間：$Skill_CD(2691)@在武將四周，召喚出6名飛熊軍，攻擊附近的敵人。飛熊軍屬性體力值：$Soldier_HP(1221)@武力值：$Soldier_Str(1221)@","text":"Response time"}
+{"id":21659,"original":"回復時間：$Skill_CD(2691)@在武將四周，召喚出6名飛熊軍，攻擊附近的敵人。飛熊軍屬性體力值：$Soldier_HP(1221)@武力值：$Soldier_Str(1221)@","text":"Response time:  $Skill_CD(2691)@ Around the military general, summon 6 flying bear troops to attack nearby enemies. Flying bear army attribute physical strength value:  $Soldier_HP(1221)@武力值:  $Soldier_Str(1221)@"}

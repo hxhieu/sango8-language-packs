@@ -1,1 +1,1 @@
-{"id":27687,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2506)@  武將召喚九顆守護星辰，當武將體力歸零時，回復100%的體力。","text":"<color=#FFE787>Response time"}
+{"id":27687,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2506)@  武將召喚九顆守護星辰，當武將體力歸零時，回復100%的體力。","text":"<color=#FFE787>Response time: </color>$Skill_CD(2506)@ The military commander summons nine guardian stars. When the military commander's physical strength returns to zero, he will recover 100% of his physical strength."}

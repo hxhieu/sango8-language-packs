@@ -1,1 +1,1 @@
-{"id":21676,"original":"回復時間：$Skill_CD(2706)@在武將四周，召喚出16名解煩兵，攻擊附近的敵人。解煩兵屬性體力值：$Soldier_HP(1271)@武力值：$Soldier_Str(1271)@","text":"Response time"}
+{"id":21676,"original":"回復時間：$Skill_CD(2706)@在武將四周，召喚出16名解煩兵，攻擊附近的敵人。解煩兵屬性體力值：$Soldier_HP(1271)@武力值：$Soldier_Str(1271)@","text":"Response time:  $Skill_CD(2706)@ Around the military general, summon 16 trouble-relief soldiers to attack nearby enemies. Trouble-free soldier attribute physical strength:  $Soldier_HP(1271)@武力值:  $Soldier_Str(1271)@"}

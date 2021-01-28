@@ -1,1 +1,1 @@
-{"id":26598,"original":"<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2156)@</color> 以自身為中心將周圍大範圍內地面化為流沙，降低範圍內敵人移動力與攻擊速度。","text":"<color=#FFE787>Response time"}
+{"id":26598,"original":"<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2156)@</color> 以自身為中心將周圍大範圍內地面化為流沙，降低範圍內敵人移動力與攻擊速度。","text":"<color=#FFE787>Response time: </color><color=#ccffcc>$Skill_CD(2156)@</color> Use yourself as the center to turn the surrounding ground into quicksand, reducing the movement of enemies in the range Power and attack speed."}

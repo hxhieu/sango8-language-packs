@@ -1,1 +1,1 @@
-{"id":26743,"original":"<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2356)@</color>    治療場上我方武將，恢復60%最大體力。","text":"<color=#FFE787>Response time"}
+{"id":26743,"original":"<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2356)@</color>    治療場上我方武將，恢復40%最大體力。","text":"<color=#FFE787>Response time: </color><color=#ccffcc>$Skill_CD(2356)@</color> On the treatment field, our generals will restore 60% of their maximum physical strength."}

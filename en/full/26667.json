@@ -1,1 +1,1 @@
-{"id":26667,"original":"<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2501)@</color>  武將召喚七顆守護星辰，當武將體力歸零時，回復75%的體力。","text":"<color=#FFE787>Response time"}
+{"id":26667,"original":"<color=#FFE787>回復時間：</color><color=#ccffcc>$Skill_CD(2501)@</color>  武將召喚七顆守護星辰，當武將體力歸零時，回復30%的體力。","text":"<color=#FFE787>Response time: </color><color=#ccffcc>$Skill_CD(2501)@</color> The military commander summons seven guardian stars. When the military commander's physical strength is zero, he will recover 75% of his physical strength ."}

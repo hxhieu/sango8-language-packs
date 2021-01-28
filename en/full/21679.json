@@ -1,1 +1,1 @@
-{"id":21679,"original":"回復時間：$Skill_CD(2711)@在武將四周，召喚出6名西涼鐵騎，攻擊附近的敵人。西涼鐵騎屬性體力值：$Soldier_HP(1276)@武力值：$Soldier_Str(1276)@","text":"Response time"}
+{"id":21679,"original":"回復時間：$Skill_CD(2711)@在武將四周，召喚出6名西涼鐵騎，攻擊附近的敵人。西涼鐵騎屬性體力值：$Soldier_HP(1276)@武力值：$Soldier_Str(1276)@","text":"Response time:  $Skill_CD(2711)@ Around the military commander, 6 Xiliang cavalry were summoned to attack nearby enemies. Xiliang Iron Horse Attribute Physical Strength:  $Soldier_HP(1276)@武力值:  $Soldier_Str(1276)@"}

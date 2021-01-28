@@ -1,1 +1,1 @@
-{"id":21688,"original":"回復時間：$Skill_CD(2721)@在武將四周，召喚出8名丹陽兵，攻擊附近的敵人。丹陽兵屬性體力值：$Soldier_HP(1301)@武力值：$Soldier_Str(1301)@","text":"Response time"}
+{"id":21688,"original":"回復時間：$Skill_CD(2721)@在武將四周，召喚出8名丹陽兵，攻擊附近的敵人。丹陽兵屬性體力值：$Soldier_HP(1301)@武力值：$Soldier_Str(1301)@","text":"Response time:  $Skill_CD(2721)@ Around the military general, 8 Danyang soldiers were summoned to attack nearby enemies. Danyang soldier attribute physical strength:  $Soldier_HP(1301)@武力值:  $Soldier_Str(1301)@"}

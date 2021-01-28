@@ -1,1 +1,1 @@
-{"id":27683,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2481)@<color=#FFE787>技能射程：</color>$Skill_range(2481)@ 對指定的地點施放迷魂煙霧，讓範圍內的士兵自相殘殺。","text":"<color=#FFE787>Response time"}
+{"id":27683,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2481)@<color=#FFE787>技能射程：</color>$Skill_range(2481)@ 對指定的地點施放迷魂煙霧，讓範圍內的士兵自相殘殺。","text":"<color=#FFE787>Response time: </color>$Skill_CD(2481)@<color=#FFE787>Skill range: </color>$Skill_range(2481)@ Cast Ecstasy Smoke on the designated location, let Soldiers in range killed each other."}

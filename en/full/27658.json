@@ -1,1 +1,1 @@
-{"id":27658,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2361)@  全體我方武將恢復5%最大體力，並在接下來的$Status_duration(1616)@秒內，每兩秒回復110點體力。","text":"<color=#FFE787>Response time"}
+{"id":27658,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2361)@  全體我方武將恢復5%最大體力，並在接下來的$Status_duration(1616)@秒內，每兩秒回復110點體力。","text":"<color=#FFE787>Response time: </color>$Skill_CD(2361)@ All our generals recover 5% of their maximum physical strength, and in the next $Status_duration(1616)@ seconds, reply 110 every two seconds Physical strength."}

@@ -1,1 +1,1 @@
-{"id":21670,"original":"回復時間：$Skill_CD(2701)@在武將四周，召喚出12名無當飛軍，攻擊附近的敵人。無當飛軍屬性體力值：$Soldier_HP(1266)@武力值：$Soldier_Str(1266)@","text":"Response time"}
+{"id":21670,"original":"回復時間：$Skill_CD(2701)@在武將四周，召喚出12名無當飛軍，攻擊附近的敵人。無當飛軍屬性體力值：$Soldier_HP(1266)@武力值：$Soldier_Str(1266)@","text":"Response time:  $Skill_CD(2701)@ Around the generals, 12 unreasonable flying troops were summoned to attack nearby enemies. Unreliable flying army attribute physical value:  $Soldier_HP(1266)@武力值:  $Soldier_Str(1266)@"}

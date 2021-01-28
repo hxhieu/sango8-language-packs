@@ -1,1 +1,1 @@
-{"id":27671,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2426)@ 以祕法削減敵方武將10%技力。","text":"<color=#FFE787>Response time"}
+{"id":27671,"original":"<color=#FFE787>回復時間：</color>$Skill_CD(2426)@ 以祕法削減敵方武將10%技力。","text":"<color=#FFE787>Response time: </color>$Skill_CD(2426)@ Use secret method to reduce the skill of enemy generals by 10%."}
